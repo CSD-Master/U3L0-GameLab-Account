@@ -6,9 +6,8 @@ layout: tabbed-assignment
 
 By the end of this lesson, you will be able to:
 
-* 
-* 
-* 
+* Create an account on the Code.Org site.
+* Log into the account through the SKSD single sign-on system (SSO)
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
