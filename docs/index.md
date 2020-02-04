@@ -6,7 +6,7 @@ layout: tabbed-assignment
 
 <img class="overview-image" src="assets/images/create-account.png">
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+To get started we'll create a GameLab account on Code.Org. Check out the learning targets, then head over the Instructions tab and follow along as we set up our accounts.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
